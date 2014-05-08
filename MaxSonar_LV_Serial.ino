@@ -155,7 +155,7 @@ void measureDistance(){
             else {
               mout = mout/100;
               oled.print(mout,1);
-              oled.print(" Metri");
+              oled.print(" Meters");
             }
           } 
           else {
